@@ -4,6 +4,7 @@ Here you will find information I've found helpful as I've learned how to use the
 |---|---|
 Distributer|Adafruit
 Product Link|https://www.adafruit.com/product/3333
+Product Guide|https://learn.adafruit.com/introducing-circuit-playground
 Chip|ATSAMD21
 Languages Support|MakeCode, CircuitPython, Arduino, and Code.org CS Discoveries
 Connector|micro-B USB
